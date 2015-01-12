@@ -17,3 +17,11 @@ name = "chrono"
 [dependencies]
 time = "0.1.12"
 
+[profile.dev]
+# XXX workaround for Rust issue #21010
+debug = false
+
+[profile.test]
+# XXX workaround for Rust issue #21010
+debug = false
+
