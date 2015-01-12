@@ -1,5 +1,5 @@
-[Chrono][doc] 0.1.13
-====================
+[Chrono][doc] 0.2.0-dev
+=======================
 
 [![Chrono on Travis CI][travis-image]][travis]
 
